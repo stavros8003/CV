@@ -1,0 +1,24 @@
+body {
+    background-color: #EDE6DB;
+    color: #417D7A; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #1A3C40;
+    border-width: 5px;
+    width: 30%;
+}
+
+h1 ,h2 ,h3 , th{
+    color: #1A3C40
+}
+
+a {
+    color: #1D5C63;
+    
+}
