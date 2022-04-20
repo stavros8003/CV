@@ -15,7 +15,7 @@ hr {
 }
 
 h1 ,h2 ,h3 , th{
-    color: #1A3C40
+    color: #1D5C63;
 }
 
 a {
@@ -26,4 +26,14 @@ a {
 .upper-banner {
     background-color: #1A3C40;
     border-style: dotted;
+    padding: 0px;
+    margin: 0px;
+}
+
+.banner {
+    background-color: #EDE6DB;
+}
+
+tr ,td{
+    padding: 7px;
 }
